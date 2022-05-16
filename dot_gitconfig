@@ -1,0 +1,6 @@
+# This is Git's per-user configuration file.
+[user]
+	name = Nayo Akinyele
+	email = akinyelenayo@gmail.com
+[init]
+	defaultBranch = main
