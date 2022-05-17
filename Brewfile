@@ -10,7 +10,6 @@ brew "bash"
 brew "python@3.10"
 brew "cfn-lint"
 brew "checkov"
-brew "chezmoi"
 brew "circleci"
 brew "docker", link: false
 brew "exercism"
